@@ -1,0 +1,24 @@
+---
+title: "Lab 3"
+author:  [update with team members]
+date: [fill in date]
+output: html_notebook
+---
+## Team Info
+Each team member should update to add their info below and be able to merge, pull and push changes
+
+
+Team [add number]
+
+Name:
+email: 
+netid:
+github username:
+Department:
+Background:
+
+
+## Logistic Regression in R
+
+
+
