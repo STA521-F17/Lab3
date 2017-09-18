@@ -19,7 +19,7 @@ To add this as an R Project:
 
 * login to Saxon at https://saxon.stat.duke.edu:8787
 
-* Under the File menu, click on Create new Project -> Version Control -> git
+* Under the File menu, click on New Project -> Version Control -> Git
 and paste in the URL fo the github repo, and local information (Name, directory)
 
 
