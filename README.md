@@ -12,3 +12,15 @@ Topics:
 
 
 You should have a passing badge at the end of lab!
+
+To add this as an R Project:
+
+* click on the  Clone or Download link and copy the URL for the repo
+
+* login to Saxon at https://saxon.stat.duke.edu:8787
+
+* Under the File menu, click on Create new Project -> Version Control -> git
+and paste in the URL fo the github repo, and local information (Name, directory)
+
+
+
