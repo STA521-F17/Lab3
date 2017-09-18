@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
 ```
 
 ## Team Info
-Each team member should update to add their info below and be able to merge, pull and push changes
+Each team member should edit to add their info below and be able to merge, pull and push changes successfully  by the end of lab.  WHen you push your code to github, you will see a Passing Badge on the README page of the repo if your code runs successfully in `werker`.
 
 
 Team [add number]
